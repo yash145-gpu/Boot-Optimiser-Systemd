@@ -1,5 +1,5 @@
 #!/bin/bash
-# Optimisation tools for Linux boot time (systemd-based)
+# Automation tools for optimized Linux boot process (systemd-based)
 
 echo "
 ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗██████╗     ██████╗  ██████╗  ██████╗ ████████╗    ████████╗██╗███╗   ███╗███████╗
